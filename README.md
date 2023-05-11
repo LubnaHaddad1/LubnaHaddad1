@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lubna</h1>
-<h3 align="center">A fresh Computer Engineering Graduate and a passionate learner from Palestine. Still at the beginning of my journey, but excited for every challenge ahead! :)</h3>
+<h2 align="center">A fresh Computer Engineering Graduate and a passionate learner from Palestine. Still at the beginning of my journey, but excited for every challenge ahead! :)</h2>
 
 - 🌱 I’m currently learning **C++, Problem Solving**
 
