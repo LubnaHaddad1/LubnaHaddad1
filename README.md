@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lubnahaddad91@gmail.com**
 
-- ⚡ Fun fact **I love ducks**
+- ⚡ Fun fact **I Love Ducks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
